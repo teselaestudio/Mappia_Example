@@ -357,7 +357,7 @@
 				<Title>visor_arbolado_y_palmeras</Title>
 				<Abstract>GH:visor_arbolado_y_palmeras ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/teselaestudio/Mappia_Example/releases/download/Map_Download/visor_arbolado_y_palmeras.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/teselaestudio/Mappia_Example/releases/download/Map_Download/visor_arbolado_y_palmeras.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-1.2260490264092416" miny="37.5355298259482" maxx="-0.688955784854408" maxy="37.725916390119046"></LatLonBoundingBox>
@@ -377,7 +377,7 @@
 				<Title>cartagena_superficies_internas</Title>
 				<Abstract>GH:cartagena_superficies_internas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/teselaestudio/Mappia_Example/releases/download/Map_Download/cartagena_superficies_internas.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/teselaestudio/Mappia_Example/releases/download/Map_Download/cartagena_superficies_internas.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-1.2258300760755332" miny="37.54439902106944" maxx="-0.6888684119784286" maxy="37.72591060853509"></LatLonBoundingBox>
